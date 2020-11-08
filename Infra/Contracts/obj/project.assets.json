@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.9",
     "restore": {
-      "projectUniqueName": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\AppContracts.csproj",
+      "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\AppContracts.csproj",
       "projectName": "AppContracts",
-      "projectPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\AppContracts.csproj",
+      "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\AppContracts.csproj",
       "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-      "outputPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\obj\\",
+      "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

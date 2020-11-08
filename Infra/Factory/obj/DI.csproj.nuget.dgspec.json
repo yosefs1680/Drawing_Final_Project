@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Factory\\DI.csproj": {}
+    "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Factory\\DI.csproj": {}
   },
   "projects": {
-    "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\AppContracts.csproj": {
+    "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\AppContracts.csproj": {
       "version": "1.0.9",
       "restore": {
-        "projectUniqueName": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\AppContracts.csproj",
+        "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\AppContracts.csproj",
         "projectName": "AppContracts",
-        "projectPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\AppContracts.csproj",
+        "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\AppContracts.csproj",
         "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-        "outputPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\obj\\",
+        "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Factory\\DI.csproj": {
+    "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Factory\\DI.csproj": {
       "version": "1.0.9",
       "restore": {
-        "projectUniqueName": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Factory\\DI.csproj",
+        "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Factory\\DI.csproj",
         "projectName": "DI",
-        "projectPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Factory\\DI.csproj",
+        "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Factory\\DI.csproj",
         "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-        "outputPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Factory\\obj\\",
+        "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Factory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\AppContracts.csproj": {
-                "projectPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Contracts\\AppContracts.csproj"
+              "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\AppContracts.csproj": {
+                "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\Contracts\\AppContracts.csproj"
               }
             }
           }
