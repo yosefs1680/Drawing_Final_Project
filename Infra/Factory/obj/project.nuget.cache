@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZ4KsxiGhjSyNDivg8Y7phy2bdPn3sDD6966Csgb+zKIV+OrSRSSRNW028uteZwDwqgdOrYNgZUasm4sjVurZA==",
+  "success": true,
+  "projectFilePath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\Factory\\DI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simhony\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\Simhony\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

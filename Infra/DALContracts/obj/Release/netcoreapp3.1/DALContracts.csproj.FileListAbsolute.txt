@@ -1,0 +1,18 @@
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\bin\Release\netcoreapp3.1\DALContracts.deps.json
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\bin\Release\netcoreapp3.1\DALContracts.dll
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\bin\Release\netcoreapp3.1\DALContracts.pdb
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.csprojAssemblyReference.cache
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.csproj.CoreCompileInputs.cache
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.AssemblyInfoInputs.cache
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.AssemblyInfo.cs
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.dll
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.pdb
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\bin\Release\netcoreapp3.1\DALContracts.deps.json
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\bin\Release\netcoreapp3.1\DALContracts.dll
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\bin\Release\netcoreapp3.1\DALContracts.pdb
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.csprojAssemblyReference.cache
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.AssemblyInfoInputs.cache
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.AssemblyInfo.cs
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.csproj.CoreCompileInputs.cache
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.dll
+C:\Open System Course\FINAL_PROJECT\Infra\DALContracts\obj\Release\netcoreapp3.1\DALContracts.pdb

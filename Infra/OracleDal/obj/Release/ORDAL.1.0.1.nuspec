@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ORDAL</id>
+    <version>1.0.1</version>
+    <authors>ORDAL</authors>
+    <owners>ORDAL</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="DALContracts" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="ODP.NetCore" version="2.0.12" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Release\netcoreapp3.1\ORDAL.dll" target="lib\netcoreapp3.1\ORDAL.dll" />
+  </files>
+</package>

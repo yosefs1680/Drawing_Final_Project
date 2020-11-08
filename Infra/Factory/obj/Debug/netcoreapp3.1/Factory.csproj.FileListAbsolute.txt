@@ -1,0 +1,17 @@
+C:\Users\silver\source\repos\TicTacToeApp\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\silver\source\repos\TicTacToeApp\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\silver\source\repos\TicTacToeApp\Factory\obj\Debug\netcoreapp3.1\Factory.csprojAssemblyReference.cache
+C:\Users\silver\source\repos\TicTacToeApp\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\silver\source\repos\TicTacToeApp\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\silver\source\repos\Infra\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\silver\source\repos\Infra\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\silver\source\repos\Infra\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\silver\source\repos\Infra\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\silver\source\repos\Infra\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\silver\source\repos\Infra\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\Users\silver\source\repos\Infra\Factory\obj\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\silver\source\repos\Infra\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\silver\source\repos\Infra\Factory\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\silver\source\repos\Infra\Factory\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\silver\source\repos\Infra\Factory\obj\Debug\netcoreapp3.1\Factory.csprojAssemblyReference.cache
+C:\Users\silver\source\repos\Infra\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CopyComplete

@@ -1,0 +1,27 @@
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\bin\Debug\netcoreapp3.1\ORDAL.deps.json
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\bin\Debug\netcoreapp3.1\ORDAL.dll
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.csprojAssemblyReference.cache
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.AssemblyInfoInputs.cache
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.AssemblyInfo.cs
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.csproj.CopyComplete
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\bin\Debug\netcoreapp3.1\ORDAL.pdb
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.csproj.CoreCompileInputs.cache
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.dll
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.pdb
+C:\Users\BM\Desktop\final project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\ORDAL.deps.json
+C:\Users\BM\Desktop\final project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\ORDAL.dll
+C:\Users\BM\Desktop\final project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\ORDAL.pdb
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\bin\Debug\netcoreapp3.1\DALContracts.dll
+C:\Users\BM\Desktop\mizrahi\REST_API\Infra\ORDAL\bin\Debug\netcoreapp3.1\DALContracts.pdb
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\ORDAL.deps.json
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\ORDAL.dll
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\ORDAL.pdb
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\DALContracts.dll
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\DALContracts.pdb
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.csprojAssemblyReference.cache
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.AssemblyInfoInputs.cache
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.AssemblyInfo.cs
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.csproj.CoreCompileInputs.cache
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.csproj.CopyComplete
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.dll
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\ORDAL.pdb

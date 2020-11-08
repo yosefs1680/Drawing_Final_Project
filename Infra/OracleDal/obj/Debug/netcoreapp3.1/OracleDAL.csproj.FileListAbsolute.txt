@@ -1,0 +1,12 @@
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\OracleDAL.deps.json
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\OracleDAL.dll
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\OracleDAL.pdb
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\DALContracts.dll
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\bin\Debug\netcoreapp3.1\DALContracts.pdb
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\OracleDAL.csprojAssemblyReference.cache
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\OracleDAL.AssemblyInfoInputs.cache
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\OracleDAL.AssemblyInfo.cs
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\OracleDAL.csproj.CoreCompileInputs.cache
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\OracleDAL.csproj.CopyComplete
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\OracleDAL.dll
+C:\Open System Course\FINAL_PROJECT\Infra\ORDAL\obj\Debug\netcoreapp3.1\OracleDAL.pdb
