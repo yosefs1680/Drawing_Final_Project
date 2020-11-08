@@ -1,0 +1,19 @@
+<div class="img-container">
+    <img src="{{doc.docUrl}}" class="mg-fluid img-thumbnail" alt="">
+    <app-drawing class="edit-doc" #Drawing></app-drawing>
+</div>
+
+<div>
+    <button class="btn btn-primary mr-1 ml-1" type="button" (click)="onEllipse()">Ellipse</button>
+    <button class="btn btn-success mr-5" type="button" (click)="onRect()">Rectangle</button>
+
+    <button class="btn btn-info mr-1 ml-1" (click)="fcolor.click()">fcolor
+        <input type="color" #fcolor></button>
+
+    <button class="btn btn-info mr-5" (click)="bcolor.click()">Bcolor        
+        <input type="color" #bcolor >
+    </button>
+
+
+    <button class="btn btn-danger ml-1" (click)="clearMarkers()">Clear</button>
+</div>

@@ -1,0 +1,45 @@
+<div class="container py-5">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="text-center mb-5">Drawing App Register </h2>
+            <div class="row">
+                <div class="col-md-6 mx-auto">
+                    <div class="card border-secondary">
+                        <div class="card-header">
+                            <h3 class="mb-0 my-2">Register</h3>
+                        </div>
+                        <div class="card-body">
+                            <form class="form" role="form" autocomplete="off" [formGroup]="RegisterForm" (ngSubmit)="onSubmit()">
+                                <div class="form-group">
+                                    <label for="inputName">Email</label>
+                                    <input type="email" class="form-control" placeholder="your email" formControlName="userEmail">
+                                    <div *ngIf='userEmail.errors && (userEmail.touched||userEmail.dirty)'>
+                                        <div class="text-danger" *ngIf='userEmail.errors.required'>Email is Required!</div>
+                                        <div class="text-danger" *ngIf='userEmail.errors.email'>Email is not valid!</div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="inputName">Name</label>
+                                    <input type="text" class="form-control" placeholder="user name" formControlName="userName">
+                                    <div *ngIf='userName.errors && (userName.touched||userName.dirty)'>
+                                        <div class="text-danger" *ngIf='userName.errors.required'>User Name is Required !</div>
+                                        <div class="text-danger" *ngIf='userName.errors.exist'>{{userName.errors.exist}}</div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <button type="submit" class="btn btn-success btn-lg float-right" [disabled]="!RegisterForm.valid">Register Now</button>
+                                </div>
+
+                                <div class="form-group">
+                                    <button type="submit" class="btn btn-link btn-lg float-left" (click)="login()">Login</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

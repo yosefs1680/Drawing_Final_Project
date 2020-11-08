@@ -1,0 +1,14 @@
+<h3>All your Documents</h3>
+<div class="col-6">
+    <div>
+        <button (click)="AddContactBtn()">Create new document</button>
+    </div>
+    <ul class="list-group">
+        <li class="list-group-item" *ngFor="let doc of documentList">
+            <img src="{{doc.docUrl}}" width="60" height="60">
+            <a routerLink="/edit/{{doc.docId}}">
+                <b>   {{doc.docName}}</b>
+            </a>
+        </li>
+    </ul>
+</div>
