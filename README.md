@@ -1,6 +1,7 @@
 <h1> Drawing Project </h1>
 
 <h3>1. Register or login your account</h3>
+<img src="https://github.com/yosefs1680/Drawing_Final_Project/blob/main/readme-pic/register.PNG">
 <h3>1. Upload your picture url from internet</h3>
 <h3>2. Choose the color of each shape</h3>
 <img src="https://github.com/yosefs1680/Drawing_Final_Project/blob/main/readme-pic/colors.PNG">
