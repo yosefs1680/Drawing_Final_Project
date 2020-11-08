@@ -1,0 +1,10 @@
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\BasicDalLib.deps.json
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\BasicDalLib.dll
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\BasicDalLib.pdb
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingDalService\obj\Debug\netcoreapp3.1\BasicDalLib.csprojAssemblyReference.cache
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingDalService\obj\Debug\netcoreapp3.1\BasicDalLib.AssemblyInfoInputs.cache
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingDalService\obj\Debug\netcoreapp3.1\BasicDalLib.AssemblyInfo.cs
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingDalService\obj\Debug\netcoreapp3.1\BasicDalLib.csproj.CoreCompileInputs.cache
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingDalService\obj\Debug\netcoreapp3.1\BasicDalLib.csproj.CopyComplete
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingDalService\obj\Debug\netcoreapp3.1\BasicDalLib.dll
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingDalService\obj\Debug\netcoreapp3.1\BasicDalLib.pdb

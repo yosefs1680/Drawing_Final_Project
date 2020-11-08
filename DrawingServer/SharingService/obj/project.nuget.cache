@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8bthEg8XvyWVQHWrb+ka+bKzEqJr1t7kimO04ZEeV2UccQ7SYX/hj+O7/K0sf56QuNv2hpgV5bu5qk0Bd2rpw==",
+  "success": true,
+  "projectFilePath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\SharingService\\SharingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simhony\\.nuget\\packages\\contracts\\1.0.9\\contracts.1.0.9.nupkg.sha512",
+    "C:\\Users\\Simhony\\.nuget\\packages\\dalcontracts\\1.0.9\\dalcontracts.1.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

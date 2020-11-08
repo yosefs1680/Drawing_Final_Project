@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqz79YKfrLMwgi6iNtmq9O/kil1MSGM2k6zg/mjWD6t6D3XY3A7jlQrTAaKoa3MJdRuDPK0U47r4oTqUrwn1fQ==",
+  "success": true,
+  "projectFilePath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DocumentsDal\\DocumentsDal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simhony\\.nuget\\packages\\contracts\\1.0.9\\contracts.1.0.9.nupkg.sha512",
+    "C:\\Users\\Simhony\\.nuget\\packages\\dalcontracts\\1.0.9\\dalcontracts.1.0.9.nupkg.sha512",
+    "C:\\Users\\Simhony\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Simhony\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\Simhony\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

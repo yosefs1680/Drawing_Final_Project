@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawingApp\\DrawingApp.csproj": {}
+  },
+  "projects": {
+    "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawingApp\\DrawingApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawingApp\\DrawingApp.csproj",
+        "projectName": "DrawingApp",
+        "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawingApp\\DrawingApp.csproj",
+        "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
+        "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawingApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Simhony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Open System Course\\FINAL_PROJECT\\Publisher": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
+                "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Contracts": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "DALContracts": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "DI": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "ORDAL": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUi": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj",
+        "projectName": "DrawnigContracts",
+        "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj",
+        "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
+        "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Simhony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Open System Course\\FINAL_PROJECT\\Publisher": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Contracts": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "DALContracts": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

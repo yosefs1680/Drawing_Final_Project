@@ -1,0 +1,121 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SharingDal/1.0.0": {
+        "dependencies": {
+          "DALContracts": "1.0.9",
+          "DrawnigContracts": "1.0.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.8",
+          "ODP.NetCore": "2.0.12"
+        },
+        "runtime": {
+          "SharingDal.dll": {}
+        }
+      },
+      "Contracts/1.0.9": {
+        "runtime": {
+          "lib/netcoreapp3.1/Contracts.dll": {
+            "assemblyVersion": "1.0.9.0",
+            "fileVersion": "1.0.9.0"
+          }
+        }
+      },
+      "DALContracts/1.0.9": {
+        "runtime": {
+          "lib/netcoreapp3.1/DALContracts.dll": {
+            "assemblyVersion": "1.0.9.0",
+            "fileVersion": "1.0.9.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.8": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.8"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.8": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "2.0.12.0",
+            "fileVersion": "2.0.12.0"
+          }
+        }
+      },
+      "DrawnigContracts/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.9",
+          "DALContracts": "1.0.9"
+        },
+        "runtime": {
+          "DrawnigContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharingDal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contracts/1.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pyi936y7jiQL2cVXwjdyxSnLOdMaq6fufWvh2Y/muNv0KKxBll8/mqk2zZ88E/jncWDJWqr40uv6+IfPJZDkCw==",
+      "path": "contracts/1.0.9",
+      "hashPath": "contracts.1.0.9.nupkg.sha512"
+    },
+    "DALContracts/1.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AejXLWEUtq1b+KM8rtoubjWZoAq/K9Wmc1wnUTRghs5RLHEhzUV89+9tGDuPfGiywh6S2cE9tp2NxfKpMDOOjA==",
+      "path": "dalcontracts/1.0.9",
+      "hashPath": "dalcontracts.1.0.9.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0qbNyxGpuNP/fuQ3FLHesm1Vn/83qYcAgVsi1UQCQN1peY4YH1uiizOh4xbYkQyxiVMD/c/zhiYYv94G0DXSSA==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.8",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XcIoXQhT0kwnEhOKv/LmpWR6yF6QWmBTy9Fcsz4aHuCOgTJ7Zd23ELtUA4BfwlYoFlSedavS+vURz9tNekd44g==",
+      "path": "microsoft.extensions.primitives/3.1.8",
+      "hashPath": "microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+    },
+    "ODP.NetCore/2.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "path": "odp.netcore/2.0.12",
+      "hashPath": "odp.netcore.2.0.12.nupkg.sha512"
+    },
+    "DrawnigContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contracts/1.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Contracts.dll": {}
+        }
+      },
+      "DALContracts/1.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/DALContracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/DALContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contracts/1.0.9": {
+      "sha512": "Pyi936y7jiQL2cVXwjdyxSnLOdMaq6fufWvh2Y/muNv0KKxBll8/mqk2zZ88E/jncWDJWqr40uv6+IfPJZDkCw==",
+      "type": "package",
+      "path": "contracts/1.0.9",
+      "files": [
+        ".nupkg.metadata",
+        "contracts.1.0.9.nupkg.sha512",
+        "contracts.nuspec",
+        "lib/netcoreapp3.1/Contracts.dll"
+      ]
+    },
+    "DALContracts/1.0.9": {
+      "sha512": "AejXLWEUtq1b+KM8rtoubjWZoAq/K9Wmc1wnUTRghs5RLHEhzUV89+9tGDuPfGiywh6S2cE9tp2NxfKpMDOOjA==",
+      "type": "package",
+      "path": "dalcontracts/1.0.9",
+      "files": [
+        ".nupkg.metadata",
+        "dalcontracts.1.0.9.nupkg.sha512",
+        "dalcontracts.nuspec",
+        "lib/netcoreapp3.1/DALContracts.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Contracts >= 1.0.9",
+      "DALContracts >= 1.0.9"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Simhony\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj",
+      "projectName": "DrawnigContracts",
+      "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj",
+      "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
+      "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Simhony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Open System Course\\FINAL_PROJECT\\Publisher": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://packagesource1": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Contracts": {
+            "target": "Package",
+            "version": "[1.0.9, )"
+          },
+          "DALContracts": {
+            "target": "Package",
+            "version": "[1.0.9, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

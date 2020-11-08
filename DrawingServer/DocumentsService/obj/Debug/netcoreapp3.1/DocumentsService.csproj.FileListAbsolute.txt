@@ -1,0 +1,17 @@
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.deps.json
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.dll
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.pdb
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\obj\Debug\netcoreapp3.1\DocumentsService.AssemblyInfoInputs.cache
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\obj\Debug\netcoreapp3.1\DocumentsService.AssemblyInfo.cs
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\obj\Debug\netcoreapp3.1\DocumentsService.csproj.CoreCompileInputs.cache
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\obj\Debug\netcoreapp3.1\DocumentsService.csproj.CopyComplete
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\obj\Debug\netcoreapp3.1\DocumentsService.dll
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\obj\Debug\netcoreapp3.1\DocumentsService.pdb
+C:\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.deps.json
+C:\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.dll
+C:\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.pdb
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.deps.json
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.dll
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DocumentsService.pdb
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DrawnigContracts.dll
+C:\Open System Course\FINAL_PROJECT\DrawingServer\DocumentsService\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\DrawnigContracts.pdb

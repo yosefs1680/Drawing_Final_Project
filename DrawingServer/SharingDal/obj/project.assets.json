@@ -1,0 +1,229 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contracts/1.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Contracts.dll": {}
+        }
+      },
+      "DALContracts/1.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/DALContracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/DALContracts.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.8": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.8"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.8": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "DrawnigContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Contracts": "1.0.9",
+          "DALContracts": "1.0.9"
+        },
+        "compile": {
+          "bin/placeholder/DrawnigContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DrawnigContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contracts/1.0.9": {
+      "sha512": "Pyi936y7jiQL2cVXwjdyxSnLOdMaq6fufWvh2Y/muNv0KKxBll8/mqk2zZ88E/jncWDJWqr40uv6+IfPJZDkCw==",
+      "type": "package",
+      "path": "contracts/1.0.9",
+      "files": [
+        ".nupkg.metadata",
+        "contracts.1.0.9.nupkg.sha512",
+        "contracts.nuspec",
+        "lib/netcoreapp3.1/Contracts.dll"
+      ]
+    },
+    "DALContracts/1.0.9": {
+      "sha512": "AejXLWEUtq1b+KM8rtoubjWZoAq/K9Wmc1wnUTRghs5RLHEhzUV89+9tGDuPfGiywh6S2cE9tp2NxfKpMDOOjA==",
+      "type": "package",
+      "path": "dalcontracts/1.0.9",
+      "files": [
+        ".nupkg.metadata",
+        "dalcontracts.1.0.9.nupkg.sha512",
+        "dalcontracts.nuspec",
+        "lib/netcoreapp3.1/DALContracts.dll"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.8": {
+      "sha512": "0qbNyxGpuNP/fuQ3FLHesm1Vn/83qYcAgVsi1UQCQN1peY4YH1uiizOh4xbYkQyxiVMD/c/zhiYYv94G0DXSSA==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
+        "microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Primitives/3.1.8": {
+      "sha512": "XcIoXQhT0kwnEhOKv/LmpWR6yF6QWmBTy9Fcsz4aHuCOgTJ7Zd23ELtUA4BfwlYoFlSedavS+vURz9tNekd44g==",
+      "type": "package",
+      "path": "microsoft.extensions.primitives/3.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
+        "microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec"
+      ]
+    },
+    "ODP.NetCore/2.0.12": {
+      "sha512": "JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "type": "package",
+      "path": "odp.netcore/2.0.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Oracle.ManagedDataAccess.dll",
+        "odp.netcore.2.0.12.nupkg.sha512",
+        "odp.netcore.nuspec"
+      ]
+    },
+    "DrawnigContracts/1.0.0": {
+      "type": "project",
+      "path": "../DrawnigContracts/DrawnigContracts.csproj",
+      "msbuildProject": "../DrawnigContracts/DrawnigContracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DALContracts >= 1.0.9",
+      "DrawnigContracts >= 1.0.0",
+      "Microsoft.Extensions.Configuration.Abstractions >= 3.1.8",
+      "ODP.NetCore >= 2.0.12"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Simhony\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\SharingDal\\SharingDal.csproj",
+      "projectName": "SharingDal",
+      "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\SharingDal\\SharingDal.csproj",
+      "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
+      "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\SharingDal\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Simhony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Open System Course\\FINAL_PROJECT\\Publisher": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://packagesource1": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
+              "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "DALContracts": {
+            "target": "Package",
+            "version": "[1.0.9, )"
+          },
+          "Microsoft.Extensions.Configuration.Abstractions": {
+            "target": "Package",
+            "version": "[3.1.8, )"
+          },
+          "ODP.NetCore": {
+            "target": "Package",
+            "version": "[2.0.12, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

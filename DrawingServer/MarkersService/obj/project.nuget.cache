@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ff1tkb8JENqQkes2e8eetUkS1peGEi6YHNw4NIwMGsP4y9qRvSpFlDn/7Og4mFfrVHEwjNlTnT4XQTFUeUbRPQ==",
+  "success": true,
+  "projectFilePath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\MarkersService\\MarkersService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simhony\\.nuget\\packages\\contracts\\1.0.9\\contracts.1.0.9.nupkg.sha512",
+    "C:\\Users\\Simhony\\.nuget\\packages\\dalcontracts\\1.0.9\\dalcontracts.1.0.9.nupkg.sha512",
+    "C:\\Users\\Simhony\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
