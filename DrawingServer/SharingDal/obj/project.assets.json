@@ -154,11 +154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\SharingDal\\SharingDal.csproj",
+      "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\SharingDal\\SharingDal.csproj",
       "projectName": "SharingDal",
-      "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\SharingDal\\SharingDal.csproj",
+      "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\SharingDal\\SharingDal.csproj",
       "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-      "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\SharingDal\\obj\\",
+      "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\SharingDal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -179,8 +179,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
-              "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
+            "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
+              "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
             }
           }
         }

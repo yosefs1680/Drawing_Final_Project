@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dAGzDFkDjHWCorANPxWCSTK8ozA3HahST991Wb7ARi0hD/LZRLMAUVOk6t0effPnL02/AEEHHEhzNVZgEhyePQ==",
+  "dgSpecHash": "XGTTTreEjCxOirVle3sWuL9oDkfzT5Su+g0h8bSfZHmIrFS2WL6zeORAJQNGwCsLRt3bCqeAeEH1iaYoXmnGmw==",
   "success": true,
-  "projectFilePath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj",
+  "projectFilePath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simhony\\.nuget\\packages\\contracts\\1.0.9\\contracts.1.0.9.nupkg.sha512",
     "C:\\Users\\Simhony\\.nuget\\packages\\dalcontracts\\1.0.9\\dalcontracts.1.0.9.nupkg.sha512",

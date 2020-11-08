@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj": {}
+    "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj": {}
   },
   "projects": {
-    "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
+    "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj",
+        "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj",
         "projectName": "DrawnigContracts",
-        "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj",
+        "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj",
         "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-        "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\obj\\",
+        "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj": {
+    "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj",
+        "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj",
         "projectName": "UsersDal",
-        "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj",
+        "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\UsersDal\\UsersDal.csproj",
         "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-        "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\UsersDal\\obj\\",
+        "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\UsersDal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -99,8 +99,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
-                "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
+              "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
+                "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
               }
             }
           }

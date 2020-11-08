@@ -195,11 +195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\MarkersDal\\MarkersDal.csproj",
+      "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\MarkersDal\\MarkersDal.csproj",
       "projectName": "MarkersDal",
-      "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\MarkersDal\\MarkersDal.csproj",
+      "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\MarkersDal\\MarkersDal.csproj",
       "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-      "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\MarkersDal\\obj\\",
+      "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\MarkersDal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -220,8 +220,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
-              "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
+            "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
+              "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
             }
           }
         }

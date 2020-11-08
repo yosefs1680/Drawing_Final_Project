@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxnI6bdr9kzyi2Ou4X26CWiZe//xTXSICPAoOBqXJ7WdLqMhTr12r5tdh4eHXn2/Cy5foPEurUdNhffFyhXz0A==",
+  "dgSpecHash": "nRdOF7jIqc9WcC25/VSWU/aqtLEKAULFFhl3RqDkHfwXiPAErHcdF5wt3Cx+yyskccLFaQyebj2xo0LJf8evVQ==",
   "success": true,
-  "projectFilePath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\SharingDal\\SharingDal.csproj",
+  "projectFilePath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\SharingDal\\SharingDal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simhony\\.nuget\\packages\\contracts\\1.0.9\\contracts.1.0.9.nupkg.sha512",
     "C:\\Users\\Simhony\\.nuget\\packages\\dalcontracts\\1.0.9\\dalcontracts.1.0.9.nupkg.sha512",

@@ -77,11 +77,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DocumentsService\\DocumentsService.csproj",
+      "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DocumentsService\\DocumentsService.csproj",
       "projectName": "DocumentsService",
-      "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DocumentsService\\DocumentsService.csproj",
+      "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DocumentsService\\DocumentsService.csproj",
       "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-      "outputPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DocumentsService\\obj\\",
+      "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DocumentsService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,8 +102,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
-              "projectPath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
+            "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj": {
+              "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\DrawnigContracts\\DrawnigContracts.csproj"
             }
           }
         }

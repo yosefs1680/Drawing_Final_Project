@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XGR/F9iZnn4RlTNLykJgDczQ8ospCR0hmFrr4XrkrIWIN5rtI5NvP0p7PHWpUfJ+NgpMPrPn1TfZEzqZydUymQ==",
+  "dgSpecHash": "eZmNRPJLvcUa212Z7m1QC/wc6g2l6qDjCO/UGSyac7OKmbFpqJyQrDb0mhFrOq8aYWi1hDIpU62jM4S0OBHkMg==",
   "success": true,
-  "projectFilePath": "C:\\OpenSystemsCourse\\Drawing_Final_Project\\DrawingServer\\MarkersDal\\MarkersDal.csproj",
+  "projectFilePath": "C:\\Open System Course\\Drawing_Final_Project\\DrawingServer\\MarkersDal\\MarkersDal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simhony\\.nuget\\packages\\contracts\\1.0.9\\contracts.1.0.9.nupkg.sha512",
     "C:\\Users\\Simhony\\.nuget\\packages\\dalcontracts\\1.0.9\\dalcontracts.1.0.9.nupkg.sha512",
