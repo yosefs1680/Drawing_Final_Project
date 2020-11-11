@@ -20,3 +20,13 @@ C:\Open System Course\FINAL_PROJECT\DrawingServer\UsersDal\obj\Debug\netcoreapp3
 C:\Open System Course\FINAL_PROJECT\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.dll
 C:\Open System Course\FINAL_PROJECT\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.pdb
 C:\Open System Course\FINAL_PROJECT\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.csproj.CoreCompileInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.csprojAssemblyReference.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.AssemblyInfoInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.AssemblyInfo.cs
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.csproj.CoreCompileInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.csproj.CopyComplete
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersDal\obj\Debug\netcoreapp3.1\UsersDal.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\UsersDal.deps.json
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\UsersDal.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\UsersDal.pdb

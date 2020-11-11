@@ -18,20 +18,20 @@ namespace DocumentsService
         }
         public Response createDoc(CreateDocsRequest request)
         {
-            Response retval = new CreateDocResponseDocExist("Document allready exist");
+            Response retval = null;
             try
             {
                 _dal.CreateDoc(request);
                 //check if doc created:
-                var newDoc = _dal.GetDoc(request.DocId).Tables[0].Rows;
+                var newDoc = _dal.GetDoc(request.DocData.DocId).Tables[0].Rows;
                 if (newDoc.Count == 1)
                 {
-                    retval = new CreateDocResponseOk("Document created!");
+                    retval = new CreateDocResponseOk("Document was created!");
                 }           
             }
             catch (Exception ex)
             {
-                retval = new AppResponseError(ex.Message);
+                retval = new CreateDocResponseErr(ex.Message);
             }
             return retval;
         }

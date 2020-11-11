@@ -5,6 +5,7 @@ import { DocsCommService } from '../commServicesAbstract/docs-comm.service';
 import { Response } from '../../DTO/Responses/Response'
 import { GetDocRequest } from 'src/app/DTO/Requests/get-doc-request';
 import { GetAllDocsRequest } from 'src/app/DTO/Requests/get-all-docs-request';
+import { CreateDocRequest } from 'src/app/DTO/Requests/create-doc-request';
 
 @Injectable({
   providedIn: 'root'
@@ -21,5 +22,10 @@ export class RemoteDocsService implements DocsCommService {
   public getDoc(request: GetDocRequest): Observable<Response> {
     return this.httpClient.post<Response>
       ("api/GetDocCtrl", request);
+  }
+
+  public createDoc(request: CreateDocRequest): Observable<Response> {
+    return this.httpClient.post<Response>
+    ("api/CreateDocCtrl", request);
   }
 }

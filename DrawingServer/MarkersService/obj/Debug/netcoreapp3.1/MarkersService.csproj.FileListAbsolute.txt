@@ -8,3 +8,13 @@ C:\Open System Course\FINAL_PROJECT\DrawingServer\MarkersService\obj\Debug\netco
 C:\Open System Course\FINAL_PROJECT\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.pdb
 C:\Open System Course\FINAL_PROJECT\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.csproj.CoreCompileInputs.cache
 C:\Open System Course\FINAL_PROJECT\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.csprojAssemblyReference.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.AssemblyInfoInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.AssemblyInfo.cs
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.csproj.CoreCompileInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.csproj.CopyComplete
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersService.deps.json
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersService.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersService.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersService\obj\Debug\netcoreapp3.1\MarkersService.csprojAssemblyReference.cache

@@ -1,3 +1,4 @@
+import { CreateDocComponent } from './components/create-doc/create-doc.component';
 import { LoginComponent } from './components/login/login.component';
 import { DocsListComponent } from './components/docs-list/docs-list.component';
 import { NgModule } from '@angular/core';
@@ -12,6 +13,7 @@ const routes: Routes = [
   { path: 'my-documents', component: DocsListComponent },
   { path: 'login', component: LoginComponent },
   { path: 'edit/:docId', component: EditDocComponent },
+  { path: 'create-doc', component: CreateDocComponent}
 ];
 
 @NgModule({

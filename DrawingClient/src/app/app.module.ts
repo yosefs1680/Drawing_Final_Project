@@ -17,6 +17,7 @@ import { DrawingComponent } from './components/drawing/drawing.component';
 import { EditDocComponent } from './components/edit-doc/edit-doc.component';
 import { RemoteMarkerService } from './Services/commServicesImpl/remote-marker.service';
 import { MarkerCommService } from './Services/commServicesAbstract/marker-comm.service';
+import { CreateDocComponent } from './components/create-doc/create-doc.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { MarkerCommService } from './Services/commServicesAbstract/marker-comm.s
     LoginComponent,
     DocsListComponent,
     DrawingComponent,
-    EditDocComponent
+    EditDocComponent,
+    CreateDocComponent
   ],
   imports: [
     BrowserModule,

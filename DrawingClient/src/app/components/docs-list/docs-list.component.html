@@ -1,7 +1,7 @@
 <h3>All your Documents</h3>
 <div class="col-6">
     <div>
-        <button (click)="AddContactBtn()">Create new document</button>
+        <a class="btn btn-primary" routerLink="/create-doc">Create new document</a>
     </div>
     <ul class="list-group">
         <li class="list-group-item" *ngFor="let doc of documentList">

@@ -26,3 +26,13 @@ C:\Open System Course\FINAL_PROJECT\DrawingServer\UsersService\obj\Debug\netcore
 C:\Open System Course\FINAL_PROJECT\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.csproj.CopyComplete
 C:\Open System Course\FINAL_PROJECT\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.dll
 C:\Open System Course\FINAL_PROJECT\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.csprojAssemblyReference.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.AssemblyInfoInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.AssemblyInfo.cs
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.csproj.CoreCompileInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.csproj.CopyComplete
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\UsersService\obj\Debug\netcoreapp3.1\UsersService.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\UsersService.deps.json
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\UsersService.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\UsersService.pdb

@@ -8,3 +8,13 @@ C:\Open System Course\FINAL_PROJECT\DrawingServer\MarkersDal\obj\Debug\netcoreap
 C:\Open System Course\FINAL_PROJECT\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.pdb
 C:\Open System Course\FINAL_PROJECT\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.csprojAssemblyReference.cache
 C:\Open System Course\FINAL_PROJECT\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.csproj.CoreCompileInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.AssemblyInfoInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.AssemblyInfo.cs
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.csproj.CoreCompileInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.csproj.CopyComplete
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersDal.deps.json
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersDal.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersDal.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.csprojAssemblyReference.cache

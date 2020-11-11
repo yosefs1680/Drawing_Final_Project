@@ -12,3 +12,12 @@ C:\Open System Course\FINAL_PROJECT\DrawingServer\SharingService\obj\Debug\netco
 C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\SharingService.deps.json
 C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\SharingService.dll
 C:\Open System Course\FINAL_PROJECT\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\SharingService.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\SharingService\obj\Debug\netcoreapp3.1\SharingService.AssemblyInfoInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\SharingService\obj\Debug\netcoreapp3.1\SharingService.AssemblyInfo.cs
+C:\Open System Course\Drawing_Final_Project\DrawingServer\SharingService\obj\Debug\netcoreapp3.1\SharingService.csproj.CoreCompileInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\SharingService\obj\Debug\netcoreapp3.1\SharingService.csproj.CopyComplete
+C:\Open System Course\Drawing_Final_Project\DrawingServer\SharingService\obj\Debug\netcoreapp3.1\SharingService.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\SharingService\obj\Debug\netcoreapp3.1\SharingService.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\SharingService.deps.json
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\SharingService.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\SharingService.pdb

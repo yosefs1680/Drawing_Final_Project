@@ -1,6 +1,7 @@
 ﻿using Contracts;
 using Contracts.DTO;
 using DrawnigContracts.DTO;
+using DrawnigContracts.DTO.documents;
 using DrawnigContracts.DTO.documentsDTO.Request;
 using DrawnigContracts.DTO.documentsDTO.Response;
 using DrawnigContracts.Interface;
@@ -43,21 +44,21 @@ namespace DocumentsService
             }
             return retval;
         }
-        private List<CreateDocsRequest> convertDataToDocsList(DataSet ds)
+        private List<Document> convertDataToDocsList(DataSet ds)
         {
-            List<CreateDocsRequest> retval = new List<CreateDocsRequest>();
+            List<Document> retval = new List<Document>();
             var docsRows = ds.Tables[0].Rows;
             for (int i = 0; i < docsRows.Count; i++)
             {
-                var elmnt = new CreateDocsRequest();
+                var DocData = new Document();
                 try
                 {
-                    elmnt.Owner = docsRows[i].Field<string>("OWNER");
-                    elmnt.DocId = docsRows[i].Field<string>("DOCID");
-                    elmnt.DocUrl = docsRows[i].Field<string>("DOCURL");
-                    elmnt.DocName = docsRows[i].Field<string>("DOCNAME");
+                    DocData.Owner = docsRows[i].Field<string>("OWNER");
+                    DocData.DocId = docsRows[i].Field<string>("DOCID");
+                    DocData.DocUrl = docsRows[i].Field<string>("DOCURL");
+                    DocData.DocName = docsRows[i].Field<string>("DOCNAME");
 
-                    retval.Add(elmnt);
+                    retval.Add(DocData);
                 }
                 catch (Exception ex)
                 {

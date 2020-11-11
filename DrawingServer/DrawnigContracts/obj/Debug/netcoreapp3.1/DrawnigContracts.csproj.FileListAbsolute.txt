@@ -30,3 +30,12 @@ C:\OpenSystemsCourse\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\De
 C:\OpenSystemsCourse\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.csproj.CoreCompileInputs.cache
 C:\OpenSystemsCourse\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.dll
 C:\OpenSystemsCourse\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\bin\Debug\netcoreapp3.1\DrawnigContracts.deps.json
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\bin\Debug\netcoreapp3.1\DrawnigContracts.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\bin\Debug\netcoreapp3.1\DrawnigContracts.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.AssemblyInfoInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.AssemblyInfo.cs
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.csproj.CoreCompileInputs.cache
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.dll
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.pdb
+C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawnigContracts\obj\Debug\netcoreapp3.1\DrawnigContracts.csprojAssemblyReference.cache

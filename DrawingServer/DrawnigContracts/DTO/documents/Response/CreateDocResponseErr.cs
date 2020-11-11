@@ -4,9 +4,9 @@ using System.Text;
 
 namespace DrawnigContracts.DTO.documentsDTO.Response
 {
-    public class CreateDocResponseDocExist : ResponseError<string>
+    public class CreateDocResponseErr : ResponseError<string>
     {
-        public CreateDocResponseDocExist(string msg) : base(msg) { }
+        public CreateDocResponseErr(string msg) : base(msg) { }
 
     }
 }

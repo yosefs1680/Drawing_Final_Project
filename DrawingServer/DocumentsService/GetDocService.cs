@@ -1,6 +1,7 @@
 ﻿using Contracts;
 using Contracts.DTO;
 using DrawnigContracts.DTO;
+using DrawnigContracts.DTO.documents;
 using DrawnigContracts.DTO.documentsDTO.Request;
 using DrawnigContracts.DTO.documentsDTO.Response;
 using DrawnigContracts.Interface;
@@ -29,7 +30,7 @@ namespace DocumentsService
                 }
                 else if (dataSet.Tables[0].Rows.Count == 1)
                 {
-                    CreateDocsRequest request = convertDataSetToClass(dataSet);
+                    Document request = convertDataSetToClass(dataSet);
                     retval = new GetDocResponseOk(request);
                 }
             } catch (Exception ex)
@@ -39,9 +40,9 @@ namespace DocumentsService
             return retval;
         }
 
-        private CreateDocsRequest convertDataSetToClass(DataSet data)
+        private Document convertDataSetToClass(DataSet data)
         {
-            CreateDocsRequest retval = new CreateDocsRequest();
+            Document retval = new Document();
             var row = data.Tables[0].Rows;
             if (row.Count > 0)
             {
@@ -56,8 +57,7 @@ namespace DocumentsService
                     
                 }
             }
-        
-            return retval;
+                 return retval;
         }
     }
 }

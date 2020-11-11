@@ -1,0 +1,23 @@
+<div class="container py-5">
+    <h2>Add Document</h2>
+
+    <form [formGroup]="documentForm" (ngSubmit)="onSubmit()">
+        <div>
+            <label>Document name:
+        <input placeholder="Doc name" formControlName="docName">
+    </label>
+        </div>
+        <div>
+            <label>Document url: 
+        <input placeholder="New doc url" type="url" formControlName="docUrl" width="400px">
+    </label>
+        </div>
+
+        <div>
+            <button class="btn btn-primary mr-5" (click)="goBack()"><b>Go back</b></button>
+            <button type="submit" class="btn btn-success">Add to my list</button>
+        </div>
+    </form>
+    <br>
+    <p> {{createDocResult}}</p>
+</div>

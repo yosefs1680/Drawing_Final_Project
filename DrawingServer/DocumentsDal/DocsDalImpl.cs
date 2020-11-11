@@ -23,11 +23,11 @@ namespace DocumentsDal
         }       
         public DataSet CreateDoc(CreateDocsRequest request)
         {
-            IDBParameter p_owner = _dalInfra.getParameter("Owner", OracleDbType.Varchar2, request.Owner);
-            IDBParameter p_docId = _dalInfra.getParameter("DocId", OracleDbType.Varchar2, request.DocId);
-            IDBParameter p_docUrl = _dalInfra.getParameter("DocUrl", OracleDbType.Varchar2, request.DocUrl);
-            IDBParameter p_docName = _dalInfra.getParameter("DocName", OracleDbType.Varchar2, request.DocName);
-            return _dalInfra.ExecuteSPQuery(_conn, "CREATE_DOC", p_owner, p_docId, p_docUrl, p_docName);
+            IDBParameter p_owner = _dalInfra.getParameter("Owner", OracleDbType.Varchar2, request.DocData.Owner);
+            IDBParameter p_docId = _dalInfra.getParameter("DocId", OracleDbType.Varchar2, request.DocData.DocId);
+            IDBParameter p_docUrl = _dalInfra.getParameter("DocUrl", OracleDbType.Varchar2, request.DocData.DocUrl);
+            IDBParameter p_docName = _dalInfra.getParameter("DocName", OracleDbType.Varchar2, request.DocData.DocName);
+            return _dalInfra.ExecuteSPQuery(_conn, "CREATE_DOC", p_owner, p_docId, p_docName, p_docUrl);
         }
         public DataSet GetDoc(string docId)
         {
