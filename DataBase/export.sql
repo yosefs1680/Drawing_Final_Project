@@ -1,5 +1,5 @@
 --------------------------------------------------------
---  File created - יום ראשון-נובמבר-08-2020   
+--  File created - יום רביעי-נובמבר-11-2020   
 --------------------------------------------------------
 --------------------------------------------------------
 --  DDL for Table DOCUMENT_MARKER
@@ -78,19 +78,27 @@
   TABLESPACE "USERS" ;
 REM INSERTING into DOCUMENT_MARKER
 SET DEFINE OFF;
-Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','789','_tcziteg13','Rectangle','{"Position":{"X":372.0,"Y":144.0},"Radius":{"X":352.0,"Y":123.0}}','#000000','#e1ff00');
+Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','jpcvfi7pi','_293le3umd','Rectangle','{"Position":{"X":193.0,"Y":63.0},"Radius":{"X":431.0,"Y":167.0}}','#000000','#000000');
 Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','987','_ym7d1pzx3','Rectangle','{"Position":{"X":109.0,"Y":77.0},"Radius":{"X":260.0,"Y":246.0}}','#000000','#000000');
 Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','987','_9vxaf71cg','Ellipse','{"Position":{"X":188.85,"Y":451.66},"Radius":{"X":86.42,"Y":37.21}}','#000000','#000000');
+Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','jpcvfi7pi','_z92ppbfqp','Rectangle','{"Position":{"X":584.0,"Y":439.0},"Radius":{"X":0.0,"Y":0.0}}','#ff0011','#000000');
+Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','jpcvfi7pi','_n0z672fga','Rectangle','{"Position":{"X":190.0,"Y":277.0},"Radius":{"X":318.0,"Y":153.0}}','#ff0011','#0062ff');
+Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','jpcvfi7pi','_i21tyu7gh','Rectangle','{"Position":{"X":718.0,"Y":63.0},"Radius":{"X":110.0,"Y":221.0}}','#ff0011','#0062ff');
 Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','987','1','Rectangle','{"Position":{"X":0.0,"Y":0.0},"Radius":{"X":0.0,"Y":0.0}}','string','string');
 Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','987','2','RECTANGLE','{"Position":{"X":0.0,"Y":0.0},"Radius":{"X":0.0,"Y":0.0}}','string','string');
 Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','987','3','RECTANGLE','{"Position":{"X":0.0,"Y":0.0},"Radius":{"X":0.0,"Y":0.0}}','string','string');
 Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','987','89','Rectangle','{"Position":{"X":0.0,"Y":0.0},"Radius":{"X":0.0,"Y":0.0}}','#000000','#000000');
 Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','369','_d83qbgo5v','Rectangle','{"Position":{"X":253.0,"Y":78.0},"Radius":{"X":276.0,"Y":393.0}}','#000000','#000000');
+Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','953','_gfmk16lgg','Rectangle','{"Position":{"X":209.0,"Y":123.0},"Radius":{"X":459.0,"Y":211.0}}','#ff0000','#000000');
+Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','953','_x8olu1o8i','Rectangle','{"Position":{"X":781.0,"Y":83.0},"Radius":{"X":57.0,"Y":404.0}}','#ff0000','#000000');
 Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','987','_gyro8yze8','Rectangle','{"Position":{"X":569.0,"Y":47.0},"Radius":{"X":213.0,"Y":37.0}}','#000000','#000000');
+Insert into DOCUMENT_MARKER (OWNER,DOCID,MARKERID,MARKERTYPE,MARKERLOC,FORECOLOR,BACKCOLOR) values ('yosef@gmail.com','953','_03sxog8sw','Ellipse','{"Position":{"X":293.55,"Y":424.68},"Radius":{"X":102.1,"Y":48.0}}','#ff0000','#000000');
 REM INSERTING into DOCUMENTS
 SET DEFINE OFF;
+Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('meir@gmail.com','m4jhwiwkv','pic3','https://images.squarespace-cdn.com/content/v1/5a7c0544d74cffa3a6ce66b3/1581028716769-K1Y7KURGOFNJ8LW6ZHOF/ke17ZwdGBToddI8pDm48kEc6DKFOx3cpvkyhZQwPkJYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc53GO0vWykWK-lIOAtsaJ7vbB1JiXq7byw-6Ogo-kuNnXzR_WIuWSVqqqoqhN8EA5/%D7%AA%D7%9E%D7%95%D7%A0%D7%AA+%D7%A0%D7%95%D7%A3+-+%D7%A9%D7%95%D7%95%D7%99%D7%A5.jpg?format=2500w');
+Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('yosef@gmail.com','jpcvfi7pi','Pic7','https://wildtravel.co.il/wp-content/uploads/2016/02/IMG_8968-2-Sjpeg-no-sign.jpg');
 Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('meir@gmail.com','123','PIC1','https://dalicanvas.co.il/wp-content/uploads/2019/01/%D7%A0%D7%95%D7%A3-%D7%9C%D7%99%D7%9D-6.jpg');
-Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('yosef@gmail.com','789','PIC1','https://images.squarespace-cdn.com/content/v1/5a7c0544d74cffa3a6ce66b3/1587740850248-HT0QC4V60Y17PK8D1A6F/ke17ZwdGBToddI8pDm48kFWxnDtCdRm2WA9rXcwtIYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcTSrQkGwCGRqSxozz07hWZrYGYYH8sg4qn8Lpf9k1pYMHPsat2_S1jaQY3SwdyaXg/%D7%AA%D7%9E%D7%95%D7%A0%D7%AA+%D7%A0%D7%95%D7%A3+-+%D7%90%D7%92%D7%9D++%D7%92%D7%90%D7%A8%D7%93%D7%94+%D7%90%D7%99%D7%98%D7%9C%D7%99%D7%94.jpg?format=2500w');
+Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('yosef@gmail.com','789','PIC1','https://www.photo-art.co.il/wp-content/uploads/2015/06/BY1A65881.jpg');
 Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('yosef@gmail.com','582','PIC2','https://d3m9l0v76dty0.cloudfront.net/system/photos/3874255/large/69d4ab7766cffe77cfaa32ab51d15df4.jpg');
 Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('racheli@gmail.com','456','PIC1','https://static.wixstatic.com/media/fe48d7_2b0efce379964962bfd95cec34ffbbee~mv2_d_4608_3072_s_4_2.jpg/v1/fill/w_480,h_320,al_c,q_85,usm_0.66_1.00_0.01/fe48d7_2b0efce379964962bfd95cec34ffbbee~mv2_d_4608_3072_s_4_2.webp');
 Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('yosef@gmail.com','987','PIC3','https://www.yo-yoo.co.il/coolpics/images/uploads/886571.jpeg');
@@ -98,6 +106,7 @@ Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('yosef@gmail.com','36
 Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('yosef@gmail.com','624','PIC5','https://static.wixstatic.com/media/fe48d7_2b0efce379964962bfd95cec34ffbbee~mv2_d_4608_3072_s_4_2.jpg/v1/fill/w_480,h_320,al_c,q_85,usm_0.66_1.00_0.01/fe48d7_2b0efce379964962bfd95cec34ffbbee~mv2_d_4608_3072_s_4_2.webp');
 Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('yosef@gmail.com','953','PIC6','https://4.bp.blogspot.com/-c_Cv5N32AEA/Vvz2v5iSgzI/AAAAAAAGBY0/VHdJLF2ibFYkXVgqvoBuEmfy2dtJloMgQ/s1600/%25D7%25AA%25D7%259E%25D7%2595%25D7%25A0%25D7%2594%2B52.jpg');
 Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('racheli@gmail.com','364','PIC2','https://www.yo-yoo.co.il/coolpics/images/uploads/886571.jpeg');
+Insert into DOCUMENTS (OWNER,DOCID,DOCNAME,DOCURL) values ('meir@gmail.com','n6ubgrn2d','land','https://www.eliadyahalom.co.il/media/source/ELI_0752_B.jpg');
 REM INSERTING into SHARE_DOCS
 SET DEFINE OFF;
 Insert into SHARE_DOCS (DOCID,USERID) values ('123','yair@gmail.com');
@@ -112,7 +121,7 @@ REM INSERTING into USERS
 SET DEFINE OFF;
 Insert into USERS (USERID,USERNAME,ISACTIVE,ISLOGIN) values ('shai@gmail.com','shai',1,0);
 Insert into USERS (USERID,USERNAME,ISACTIVE,ISLOGIN) values ('shalom@gmail.com','shalom',1,0);
-Insert into USERS (USERID,USERNAME,ISACTIVE,ISLOGIN) values ('meir@gmail.com','meir',1,0);
+Insert into USERS (USERID,USERNAME,ISACTIVE,ISLOGIN) values ('meir@gmail.com','meir',1,1);
 Insert into USERS (USERID,USERNAME,ISACTIVE,ISLOGIN) values ('racheli@gmail.com','racheli',1,1);
 Insert into USERS (USERID,USERNAME,ISACTIVE,ISLOGIN) values ('yosef@gmail.com','yosef',1,1);
 Insert into USERS (USERID,USERNAME,ISACTIVE,ISLOGIN) values ('ariel@gmail.com','ariel',1,1);
@@ -179,9 +188,9 @@ set define off;
 ) AS 
 
 BEGIN
-INSERT INTO DOCUMENTS 
+INSERT INTO DOCUMENTS (OWNER, DOCID, DOCNAME, DOCURL)
 VALUES  
-    (  (SELECT USERID from USERS WHERE USERID=P_OWNER),  P_DOCID, P_DOCNAME, P_DOCURL) ;
+    (  (SELECT USERID from USERS WHERE USERID=P_OWNER),  P_DOCID,  P_DOCNAME, P_DOCURL) ;
    
     OPEN P_RC FOR SELECT * FROM documents WHERE docid=P_DOCID;
     
