@@ -1,9 +1,10 @@
-﻿using DrawnigContracts.DTO.documentsDTO.Request;
+﻿using DrawnigContracts.DTO.documents;
+using DrawnigContracts.DTO.documentsDTO.Request;
 
 namespace DrawnigContracts.DTO.documentsDTO.Response
 {
-    public class GetDocResponseOk : ResponseOk<CreateDocsRequest> 
+    public class GetDocResponseOk : ResponseOk<Document> 
     {
-        public GetDocResponseOk(CreateDocsRequest request) : base(request) { }
+        public GetDocResponseOk(Document request) : base(request) { }
     }
 }

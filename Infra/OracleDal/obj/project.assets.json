@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.9",
     "restore": {
-      "projectUniqueName": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\ORDAL\\OracleDAL.csproj",
+      "projectUniqueName": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\OracleDal\\OracleDAL.csproj",
       "projectName": "OracleDAL",
-      "projectPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\ORDAL\\OracleDAL.csproj",
+      "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\OracleDal\\OracleDAL.csproj",
       "packagesPath": "C:\\Users\\Simhony\\.nuget\\packages\\",
-      "outputPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\ORDAL\\obj\\",
+      "outputPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\OracleDal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -80,8 +80,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Open System Course\\FINAL_PROJECT\\Infra\\DALContracts\\DALContracts.csproj": {
-              "projectPath": "C:\\Open System Course\\FINAL_PROJECT\\Infra\\DALContracts\\DALContracts.csproj"
+            "C:\\Open System Course\\Drawing_Final_Project\\Infra\\DALContracts\\DALContracts.csproj": {
+              "projectPath": "C:\\Open System Course\\Drawing_Final_Project\\Infra\\DALContracts\\DALContracts.csproj"
             }
           }
         }
