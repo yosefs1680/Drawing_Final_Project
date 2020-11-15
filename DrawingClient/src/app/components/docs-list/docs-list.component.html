@@ -6,7 +6,7 @@
     <ul class="list-group">
         <li class="list-group-item" *ngFor="let doc of documentList">
             <img src="{{doc.docUrl}}" width="60" height="60">
-            <a routerLink="/edit/{{doc.docId}}">
+            <a routerLink="/drawing/{{doc.docId}}">
                 <b>   {{doc.docName}}</b>
             </a>
         </li>

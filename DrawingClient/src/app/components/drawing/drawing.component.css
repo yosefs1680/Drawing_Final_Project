@@ -1,15 +1,17 @@
-/* #container { position: relative; } */
+.con-1 {
+    position: relative;
+    height: 500px;
+    width: 900px;
+    background-size: cover;
+}
 
 .canvas {
     position: absolute;
 }
 
-;
 
-/* .canvas{
- height: 100%;
- width: 100%;
- padding: 0;
- margin: 0;
- display:block;
+/* .img-container img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
 } */

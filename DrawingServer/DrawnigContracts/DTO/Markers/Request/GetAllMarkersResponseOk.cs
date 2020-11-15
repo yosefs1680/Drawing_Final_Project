@@ -8,7 +8,7 @@ namespace DrawnigContracts.DTO.Markers.Request
     {
         public GetAllMarkersResponseOk(List<MarkerData> list) : base(list)
         {
-
         }
+        
     }
 }

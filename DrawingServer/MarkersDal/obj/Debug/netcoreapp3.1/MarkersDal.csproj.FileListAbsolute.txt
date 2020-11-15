@@ -17,4 +17,3 @@ C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\n
 C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersDal.deps.json
 C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersDal.dll
 C:\Open System Course\Drawing_Final_Project\DrawingServer\DrawingApp\bin\Debug\netcoreapp3.1\dlls\netcoreapp3.1\MarkersDal.pdb
-C:\Open System Course\Drawing_Final_Project\DrawingServer\MarkersDal\obj\Debug\netcoreapp3.1\MarkersDal.csprojAssemblyReference.cache

@@ -14,7 +14,6 @@ import { LoginComponent } from './components/login/login.component';
 import { RemoteLoginService } from './Services/commServicesImpl/remote-login.service';
 import { RemoteRegisterService } from './Services/commServicesImpl/remote-register.service';
 import { DrawingComponent } from './components/drawing/drawing.component';
-import { EditDocComponent } from './components/edit-doc/edit-doc.component';
 import { RemoteMarkerService } from './Services/commServicesImpl/remote-marker.service';
 import { MarkerCommService } from './Services/commServicesAbstract/marker-comm.service';
 import { CreateDocComponent } from './components/create-doc/create-doc.component';
@@ -26,7 +25,6 @@ import { CreateDocComponent } from './components/create-doc/create-doc.component
     LoginComponent,
     DocsListComponent,
     DrawingComponent,
-    EditDocComponent,
     CreateDocComponent
   ],
   imports: [

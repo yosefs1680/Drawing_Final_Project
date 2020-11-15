@@ -33,7 +33,7 @@ namespace MarkersService
                 }
                 else
                 {
-                    retval = new GetAllMarkersResponseErr("There is no marker with this ID");
+                    retval = new GetAllMarkersResponseErr("There is no marker for this document");
                 }
             }
             catch (Exception ex)

@@ -6,13 +6,12 @@ import { FormsModule, ReactiveFormsModule,  } from '@angular/forms';
 import { Routes, RouterModule } from '@angular/router';
 import { RegisterComponent } from './components/register/register.component';
 import { DrawingComponent } from './components/drawing/drawing.component';
-import { EditDocComponent } from './components/edit-doc/edit-doc.component';
 
 const routes: Routes = [
   { path: '', component: RegisterComponent },
   { path: 'my-documents', component: DocsListComponent },
   { path: 'login', component: LoginComponent },
-  { path: 'edit/:docId', component: EditDocComponent },
+  { path: 'drawing/:docId', component: DrawingComponent },
   { path: 'create-doc', component: CreateDocComponent}
 ];
 
